@@ -128,8 +128,8 @@ export default function useCanvas() {
     useEffect(() => {
         const canvas = canvasRef.current;
         if (!canvas) return;
-        canvas.width = window.innerWidth - 70
-        canvas.height = window.innerHeight
+        canvas.width = window.innerWidth - 50
+        canvas.height = window.innerHeight - 180
     }, [])
 
     useEffect(() => {
