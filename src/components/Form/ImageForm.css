@@ -1,0 +1,14 @@
+.custom-file-input {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-family: Arial, sans-serif;
+    background-color: dodgerblue;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form{
+    margin: 20px 0;
+}
